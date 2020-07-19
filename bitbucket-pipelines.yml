@@ -1,0 +1,19 @@
+ # Only use spaces to indent your .yml configuration.
+ # -----
+ # You can specify a custom docker image from Docker Hub as your build environment.
+ image: mcr.microsoft.com/dotnet/core/sdk
+ 
+ pipelines:
+   default:
+       - step:
+           script: # Modify the commands below to build your repository.
+             - docker version
+             - docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Password123!" -p 1433:1433 -d "mcr.microsoft.com/mssql/server"
+             - dotnet test FA19.P05.Tests
+           services:
+             - docker
+ 
+ definitions:
+   services:
+     docker:
+       memory: 2048

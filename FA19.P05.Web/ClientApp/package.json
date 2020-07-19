@@ -1,0 +1,47 @@
+{
+  "name": "clientapp",
+  "license": "No License lol",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "i": "^0.3.6",
+    "modules": "^0.4.0",
+    "node": "^12.12.0",
+    "npm": "^6.11.3",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1",
+    "react-icons": "^3.7.0",
+    "react-loader-spinner": "^3.1.4",
+    "react-newline-to-break": "^1.0.6",
+    "react-phone-number-input": "^2.4.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.1.2",
+    "react-select": "^3.0.5",
+    "react-select-2": "^2.0.11",
+    "react-toastify": "^5.4.1",
+    "reactstrap": "^8.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

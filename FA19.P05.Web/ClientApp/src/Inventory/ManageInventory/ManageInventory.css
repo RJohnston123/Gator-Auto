@@ -1,0 +1,96 @@
+.InputContainer{
+    margin-left: 200px;
+    display: flex;
+    padding-top: 120px;
+}
+
+.InputGroup{
+    display: table-column;
+}
+
+.Inputs{
+    width: 250px;
+}
+
+.InputsTitle{
+    font-family: 'Ubuntu', sans-serif;
+    text-align: left;
+    align-items: flex-start;
+}
+
+.ItemContent{
+    margin-bottom: 10px;
+}
+
+.ItemText{
+    font-family: 'Ubuntu', sans-serif;
+    text-align: left;
+    float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.List{
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+    width: 70%;
+}
+
+.ListItem{
+    background-color: rgb(235, 235, 235);
+    margin-left: 200px;
+    margin-top: 5px;
+    border-radius: 10px;
+    min-width: 400px;
+}
+
+.PicContainer{
+    float: left;
+    height: 150px;
+    width: 300px;
+}
+
+.Picture{
+    width: auto;
+    height: 150px;
+}
+
+.Buttons{
+    float: right;
+}
+
+.ListButtons{
+    width: 100px;
+    margin: 5px;
+}
+
+.DeleteModal{
+    margin-top: 10%;
+}
+
+.DeleteContent{
+    margin: 30px;
+    text-align: center;
+}
+
+.ModalButtons{
+    margin: 10px;
+    text-align: center;
+}
+
+.DeleteQuestion{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    margin: auto;
+}
+
+.ModalInputs{
+    margin-bottom: 20px;
+}
+
+.EditInputContainer{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}

@@ -1,0 +1,33 @@
+/* The sidebar menu */
+.sidenav {
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 200px; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 100; /* Stay at the top */
+    left: 0;
+    background-color: lightgrey; /* Black */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 120px;
+  }
+
+  .link {
+    color:black;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 15px;
+    margin-bottom: 15px;
+    text-align: left;
+  }
+
+  .link:hover {
+    color:rgb(0, 165, 0);
+  }
+
+  .adminheader {
+    font-family: 'Varela Round', sans-serif;
+    font-weight: bold;
+  }
+
+  .adminusername {
+    font-family: 'Varela Round', sans-serif;
+  }

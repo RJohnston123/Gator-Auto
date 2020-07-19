@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+#page-wrap {
+  padding-left: 350px;
+  padding-top: 50px;
+  padding-right: 100px;
+}

@@ -1,0 +1,79 @@
+﻿.Vehicle {
+    width: 50%;
+    min-width: 800px;
+    height: 90%;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 120px;
+    float: right;
+    padding: 32px;
+    text-align: center;
+    background:#E8E8E8;
+    border-radius:30px;
+}
+
+.VehicleElement{
+    border-radius:20px;
+}
+
+.Pic{
+    float: left;
+    width: auto;
+    height: 200px;
+}
+
+.Info{
+    float: right;
+    text-align: right;
+}
+
+.Price{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.YMM{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.VIN{
+    font-size: 20px;
+}
+
+.VehicleButton {
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    width: auto;
+    border-radius: 14px;
+    background-color: rgb(97, 201, 79);
+    border-color: rgb(97, 201, 79);
+    font-size: 18px;
+}
+
+.OptionsCell{
+    border-width: 4px;
+    border-color: rgb(97, 201, 79);
+    border-style: solid;
+    border-radius: 30px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.OptionsTitle{
+    font-size: 32px;
+    margin-bottom: 16px;
+    font-family: 'Varela Round', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.OptionsPrice{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.OptionsDescription{
+    font-family: 'Ubuntu', sans-serif;
+}
