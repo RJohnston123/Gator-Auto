@@ -19,10 +19,10 @@ Jean-Paul Aucoin [Developer]
 ![](https://i.imgur.com/RqBemcn.png)
 ![](https://i.imgur.com/E8r469m.png)
 ![](https://i.imgur.com/ROLcVzn.png)
-
 ## Mobile
-
  ![](https://i.imgur.com/FisszmF.jpg =250x) ![](https://i.imgur.com/uDLoSAq.jpg  =250x)  ![](https://i.imgur.com/BWuEsJS.jpg  =250x)
 ![](https://i.imgur.com/WSw4n5g.jpg  =250x)![](https://i.imgur.com/YRaHVO1.jpg  =250x)  ![](https://i.imgur.com/nGzyXKn.jpg  =250x)
+
+
 
 
