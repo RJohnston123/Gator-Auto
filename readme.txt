@@ -8,21 +8,6 @@ The mobile app is purely for customers to view inventory, favorite vehicles and 
 This project was built with a React/React Native frontend and an ASP.Net backend. 
 This was our first experience using these technologies.
 
-<ins>Members</ins>
-Robert Johnston [Team Leader/Developer]
-Aidan Higginbotham [Developer]
-Robert Demourelle [Developer]
-Jean-Paul Aucoin [Developer]
 
-## Web
-![](https://i.imgur.com/9IgJL9R.png)
-![](https://i.imgur.com/RqBemcn.png)
-![](https://i.imgur.com/E8r469m.png)
-![](https://i.imgur.com/ROLcVzn.png)
-
-## Mobile
-
- ![](https://i.imgur.com/FisszmF.jpg =250x) ![](https://i.imgur.com/uDLoSAq.jpg  =250x)  ![](https://i.imgur.com/BWuEsJS.jpg  =250x)
-![](https://i.imgur.com/WSw4n5g.jpg  =250x)![](https://i.imgur.com/YRaHVO1.jpg  =250x)  ![](https://i.imgur.com/nGzyXKn.jpg  =250x)
 
 
