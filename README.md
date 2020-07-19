@@ -18,7 +18,7 @@ Jean-Paul Aucoin [Developer]
 ![](https://i.imgur.com/9IgJL9R.png)
 ![](https://i.imgur.com/RqBemcn.png)
 ![](https://i.imgur.com/E8r469m.png)
-![enter image description here](https://i.imgur.com/ROLcVzn.png)
+![](https://i.imgur.com/ROLcVzn.png)
 
 ## Mobile
 
